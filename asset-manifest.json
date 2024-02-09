@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cresol-infoserv-task/static/css/main.2a1a6a86.css",
+    "main.js": "/cresol-infoserv-task/static/js/main.6d814c63.js",
+    "static/js/787.8eb42f38.chunk.js": "/cresol-infoserv-task/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/cresol-infoserv-task/index.html",
+    "main.2a1a6a86.css.map": "/cresol-infoserv-task/static/css/main.2a1a6a86.css.map",
+    "main.6d814c63.js.map": "/cresol-infoserv-task/static/js/main.6d814c63.js.map",
+    "787.8eb42f38.chunk.js.map": "/cresol-infoserv-task/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a1a6a86.css",
+    "static/js/main.6d814c63.js"
+  ]
+}
